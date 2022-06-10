@@ -1,7 +1,7 @@
 # Ansible-Sample-Project
 
-This project aims to give a guide to get you started with ansible. We will setup a host linux machine on AWS and configure nginx server using Ansible.
-This projects expects sound understanding of AWS environment.
+This project gives you a guide to get started with ansible. We will setup a host linux machine on AWS and configure nginx server using Ansible.
+This project expects sound understanding of AWS environment.
 ### Prerequisite:
 
 You need following to get started with this project:
