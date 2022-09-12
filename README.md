@@ -2,14 +2,14 @@
 
 This project is a sample project mainly formulated to understand the process of hosting and configuring remote servers using Ansible. We will setup a host linux machine on AWS and configure nginx server using Ansible.
 This project expects that you have sound understanding of AWS environment and Ansible.
-### Prerequisite:
-
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+### Prerequisite
 You need following to get started with this project:
 1. Docker
 2. Aws account
 
-### How to run:
-
+### Setup
 * Build Docker container using `docker build -t ansible .`
 * Initialize container using `docker run -it ansible`
 * Declare environment variables inside the container using following commands.
