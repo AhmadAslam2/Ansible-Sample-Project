@@ -1,4 +1,4 @@
-# Ansible-Sample-Project
+# Ansible Sample Project
 
 This project is a sample project mainly formulated to understand the process of hosting and configuring remote servers using Ansible. We will setup a host linux machine on AWS and configure nginx server using Ansible.
 This project expects that you have sound understanding of AWS environment and Ansible.
